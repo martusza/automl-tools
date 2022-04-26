@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "==0.20.0"
+kaggle = "==1.5.12"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
