@@ -112,3 +112,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# development folders
+tmp_dir/
